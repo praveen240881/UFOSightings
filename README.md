@@ -36,7 +36,5 @@ Here are two recommendations for further development:
   1. Create multiple pages for the entry results. As the total number of entries in this list increases, this webpage will become clunky and difficult to scroll thorugh so many entries. Additionally, create a button that allows the user to choose how many results are shown per page (25, 50, 100, etc.).
   2. Create sorting functions. As the number of results grow, users may want an ability to sort the results to see more relevant data. Examples include sorting by Date (Ascending/Descending) or by City Name (A to Z, Z to A). 
 
-**Author: Michael Mishkanian**  
 
-For all questions and inquiries, please contact me on [LinkedIn](https://www.linkedin.com/in/michaelmishkanian/).
 
